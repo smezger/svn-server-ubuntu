@@ -1,9 +1,9 @@
 ![Docker Build Status](https://img.shields.io/docker/automated/smezger/svn-server-ubuntu.svg?style=plastic) ![Docker Build Status](https://img.shields.io/docker/build/smezger/svn-server-ubuntu.svg?style=plastic) ![Docker Pulls](https://img.shields.io/docker/pulls/smezger/svn-server-ubuntu.svg)
-# Docker Image Source Files for smezger/svn-server-ubuntu
+# Docker Image smezger/svn-server-ubuntu
 
 
 # Description
-The Docker Image is based on **Ubuntu** with an Apache2 web-server and svn. The if.svnadmin web-interface is used to administrate svn. In addition to http:// the svn:// protocol can be used.
+The Docker Image is based on **Ubuntu** with an Apache2 web-server and svn. The if.svnadmin web-interface is used to administrate svn. In addition to http:// the svn:// protocol can be used.The image can be used on ARM hardware (i.e. Raspberry Pi) and X86 hardware.
 
 # Create a container from the image
 To create a container with the repository data located on the host machine e.g. in the directory /data/docker/svn-server execute the following command:
