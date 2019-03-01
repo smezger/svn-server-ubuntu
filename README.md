@@ -1,3 +1,4 @@
+![Docker Build Status](https://img.shields.io/docker/automated/smezger/svn-server-ubuntu.svg?style=plastic) ![Docker Build Status](https://img.shields.io/docker/build/smezger/svn-server-ubuntu.svg?style=plastic)
 # Docker Image Source Files for smezger/svn-server-ubuntu
 
 
